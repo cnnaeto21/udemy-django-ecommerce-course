@@ -1,0 +1,58 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "abc",
+        "description": "Nice t-shirt very nice",
+        "price": "120.00",
+        "image": "products/Screen_Shot_2020-05-21_at_3.42.24_PM.png",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-05-29T14:30:22.938Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "hat",
+        "slug": "hat",
+        "description": "nice hat",
+        "price": "120.00",
+        "image": "products/int.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-05-29T14:30:22.938Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Shoe",
+        "slug": "shoe-67b0",
+        "description": "Stylish",
+        "price": "120.00",
+        "image": "",
+        "featured": true,
+        "active": true,
+        "timestamp": "2020-05-29T14:30:22.938Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "Lorem Ipsum",
+        "slug": "lorem-ipsum",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "price": "120.00",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-05-29T14:30:22.938Z"
+    }
+}
+]
